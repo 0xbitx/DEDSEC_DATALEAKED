@@ -1,8 +1,6 @@
-# DEDSEC_DATALEAKED
-
 
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_NGL_FACEREVEAL/blob/main/banner.png", width="500", height="500">
+<img src="https://github.com/0xbitx/DEDSEC_DATALEAKED/blob/main/banner.png", width="500", height="500">
 </p>
 <h1 align="center"> DEDSEC_DATALEAKED</h1>
 <h4 align="center">DEDSEC_DATALEAKED is a python tool that can generate fake data </h4>
