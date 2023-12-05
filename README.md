@@ -8,8 +8,8 @@
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_DATALEAKED.git
 * cd DEDSEC_DATALEAKED
-* pip3 install pystyle pycryptodome tabulate
-* python3 dedsec_dataleaked.py
+* pip3 install pystyle tabulate
+* ./dedsec_dataleaked
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
