@@ -5,7 +5,7 @@
 <h1 align="center"> DEDSEC_DATALEAKED</h1>
 <h4 align="center">DEDSEC_DATALEAKED is a python tool that can generate fake data </h4>
 
-### INSTALLATION [KALI - PARROT - TERMUX]
+### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_DATALEAKED.git
 * cd DEDSEC_DATALEAKED
 * pip3 install pystyle tabulate
@@ -19,7 +19,6 @@
 
 ### LANGUAGE 
 * Python
-
 
 ## Support
 
