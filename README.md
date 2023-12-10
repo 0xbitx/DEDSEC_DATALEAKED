@@ -8,7 +8,8 @@
 ### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_DATALEAKED.git
 * cd DEDSEC_DATALEAKED
-* pip3 install pystyle tabulate
+* pip3 install pystyle
+* chmod +x dedsec_dataleaked
 * ./dedsec_dataleaked
 
 ### TESTED ON FOLLOWING
